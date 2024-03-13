@@ -1,1 +1,1 @@
-[Jeux du Taquin](file:///C:/Users/guede/IdeaProjects/Taquin/index.html)
+[Jeux du Taquin]file:///C:/Users/guede/IdeaProjects/Taquin/index.html
