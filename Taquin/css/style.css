@@ -1,0 +1,29 @@
+
+#taquin-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px;
+    width: 320px;
+    height: 320px;
+    margin: auto;
+}
+
+
+.taquin-tile {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    background-color: lightgray;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.empty {
+    opacity: 0;
+}
+h1 {
+    text-align: center;
+    margin-top: 50px;
+}
